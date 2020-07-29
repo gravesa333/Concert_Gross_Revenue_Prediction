@@ -1,5 +1,5 @@
-# Concert_Gross_Revenue_Prediction
-Metis Project 02
+# Concert Gross Revenue Prediction
+**Metis Project 02**
 
 For this project, ticket sales data and artist data were scraped for over 850 shows at the Fox Theater in Oakland, CA. The data was collected for shows between February 2009 and September 2019.
 
